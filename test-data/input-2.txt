@@ -1,0 +1,4 @@
+#tesztelni, hogy minden torpedó egyszerre kilövése után lehet-e még lőni.
+GT4500,10,0,10,0
+TORPEDO,ALL
+TORPEDO,SINGLE

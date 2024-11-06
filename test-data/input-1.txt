@@ -1,0 +1,3 @@
+#létre lehet-e hozni egy torpedót és lehet-e vele tüzelni
+GT4500,10,0,10,0
+TORPEDO,ALL
