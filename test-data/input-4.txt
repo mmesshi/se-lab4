@@ -1,0 +1,10 @@
+#ha nincs ugyanannyi torpedó a bal és jobb oldali tárban akkor is lehet-e a max kapacitást kilőni
+GT4500,1,0,5,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL

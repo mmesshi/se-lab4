@@ -1,0 +1,6 @@
+#ha a primary-ból volt lőve előtte, de a másik üres akkor lehet-e lőni még
+GT4500,3,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
